@@ -1,0 +1,16 @@
+{
+  "name": "clone_tabnews",
+  "version": "1.0.0",
+  "description": "Este repositorio tem como intuito aprendizado do curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "next": "next dev"
+  },
+  "author": "Aparecido Nicolini",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
