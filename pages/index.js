@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Projeto online</h1>;
+    return <h1>Clone Tabnews</h1>;
 }
 
 export default Home;
